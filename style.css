@@ -1,0 +1,101 @@
+#header{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 190%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+ 
+
+}
+.ingredient {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 125%;
+    line-height: 190%;
+    display: inline-block;
+}
+
+#ingredientheader {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 150%;   
+}
+
+#maindiv1 {
+    float:left;
+    display: block;
+    max-width: 30%;
+    background-color: rgba(255, 255, 255, 0.774);   
+    margin: auto;
+}
+
+#maindiv2 {
+    margin-left: 1%;
+    margin-right: 1%;
+    float:left;
+    display: block;
+    max-width: 33%;
+    padding-top: 1%; 
+}
+
+#maindiv3 {
+    margin-left: auto;
+    margin-right: auto;
+    float:left;
+    display: block;
+    max-width: 35%;
+    background-color: rgba(255, 255, 255, 0.774);  
+   
+}
+#instructionheader{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 150%;
+    padding-left:3%;
+}
+
+#description {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 125%;
+    text-align: center;
+    background-color: rgba(255, 239, 166, 0.678);
+    padding: 2%;
+}
+
+.recipedescription{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 100%;
+}
+
+
+ul{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.instruction{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 125%;
+    line-height: 190%;
+}
+
+#notes{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 100%;
+    line-height: 190%;
+    display: inline-block;
+}
+
+#notesheader{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 150%;
+    margin-top: 12%;
+}
+
+#breadphoto{
+    text-align: center;
+}
+
+#info{
+    text-align: center;
+}
+body{
+    background-image: url(background.png);
+}
